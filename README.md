@@ -5,6 +5,7 @@ The purpose of this analysis is to observe and make conclusions from observing a
 
 ## Results
 1. How many vine reviews and non vine reviews were there?
+
 There were a total of 60 vine reviews:
 
 ![image](https://user-images.githubusercontent.com/78698456/121615550-26e8d980-ca2f-11eb-8dd9-356b7ed916b2.png)
@@ -17,6 +18,7 @@ And a total of 14477 non vine reviews:
 
 
 2. How many vine reviews were 5 stars? How many non vine reviews were 5 stars? 
+
 A total of 34 vine reviews were 5 stars:
 
 ![image](https://user-images.githubusercontent.com/78698456/121615695-7a5b2780-ca2f-11eb-8ae0-70f3770ac6f1.png)
@@ -28,7 +30,8 @@ And a total of 8212 non vine reviews were 5 stars:
 
 
 3. What percentage of vine reviews were 5 stars? What percentage of non vine reviews were 5 stars?
-A percentage of 56.67% were vine reviews with 5 stars:
+
+A percentage of <b>56.67%<b> were vine reviews with 5 stars:
 
 ![image](https://user-images.githubusercontent.com/78698456/121615783-ac6c8980-ca2f-11eb-8c46-384f83ea4e93.png)
 
