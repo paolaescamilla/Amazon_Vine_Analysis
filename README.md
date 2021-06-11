@@ -41,6 +41,7 @@ And a percentage of **56.72%** were non vine reviews with 5 stars:
 
 
 ## Summary
-Is there bias?
+From the numbers retrieved there is not bias in the results as the total number of vines is considerably smaller to the non vine ones. This definitely influences in having an actual true review on those products that comes from a satisfied client.
 
 Recommended additional analysis:
+It is recommended to run a statystical analysis on this dataframe in order to uncover more trends.
